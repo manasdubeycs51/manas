@@ -1,2 +1,2 @@
 # manas
-Very nice
+Very nice project
