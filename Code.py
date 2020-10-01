@@ -1,1 +1,2 @@
 Print("hello")
+print("nice")
